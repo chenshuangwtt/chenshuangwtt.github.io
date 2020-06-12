@@ -1,0 +1,7 @@
+#hexo chenshuangwtt.github.io
+User-agent: *
+
+Allow: /
+
+Sitemap: http://chenshuangwtt.github.io/sitemap.xml
+Sitemap: http://chenshuangwtt.github.io/baidusitemap.xml
