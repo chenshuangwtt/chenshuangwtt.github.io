@@ -5,9 +5,9 @@
   <subtitle>叶落霜秋</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://chenshuangwtt.github.io/"/>
+  <link href="http://chenshuangwtt.github.io/"/>
   <updated>2020-06-11T03:10:43.819Z</updated>
-  <id>https://chenshuangwtt.github.io/</id>
+  <id>http://chenshuangwtt.github.io/</id>
   
   <author>
     <name>叶落霜秋</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Spring注解</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/10/spring-annotation/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/10/spring-annotation/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/10/spring-annotation/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/10/spring-annotation/</id>
     <published>2020-06-10T09:46:18.000Z</published>
     <updated>2020-06-11T03:10:43.819Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/categories/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/categories/Spring/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/tags/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>Redis配置文件详解</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/08/redis-02/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/08/redis-02/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/08/redis-02/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/08/redis-02/</id>
     <published>2020-06-08T10:49:47.000Z</published>
     <updated>2020-06-11T10:02:53.477Z</updated>
     
@@ -63,17 +63,17 @@
     
     </summary>
     
-      <category term="Redis" scheme="https://chenshuangwtt.github.io/categories/Redis/"/>
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/categories/Redis/"/>
     
     
-      <category term="Redis" scheme="https://chenshuangwtt.github.io/tags/Redis/"/>
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/tags/Redis/"/>
     
   </entry>
   
   <entry>
     <title>Redis学习笔记</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/08/redis-01/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/08/redis-01/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/08/redis-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/08/redis-01/</id>
     <published>2020-06-08T07:51:31.000Z</published>
     <updated>2020-06-11T10:04:40.089Z</updated>
     
@@ -89,17 +89,17 @@
     
     </summary>
     
-      <category term="Redis" scheme="https://chenshuangwtt.github.io/categories/Redis/"/>
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/categories/Redis/"/>
     
     
-      <category term="Redis" scheme="https://chenshuangwtt.github.io/tags/Redis/"/>
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/tags/Redis/"/>
     
   </entry>
   
   <entry>
     <title>Java SPI机制</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/08/spi-01/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/08/spi-01/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/08/spi-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/08/spi-01/</id>
     <published>2020-06-08T02:07:59.000Z</published>
     <updated>2020-06-08T06:35:07.264Z</updated>
     
@@ -115,17 +115,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>分布式锁</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/05/lock-02/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/05/lock-02/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/05/lock-02/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/05/lock-02/</id>
     <published>2020-06-05T08:03:41.000Z</published>
     <updated>2020-06-11T09:45:21.803Z</updated>
     
@@ -141,25 +141,25 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
-      <category term="Redis" scheme="https://chenshuangwtt.github.io/categories/Java/Redis/"/>
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/categories/Java/Redis/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="分布式锁" scheme="https://chenshuangwtt.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/"/>
+      <category term="分布式锁" scheme="http://chenshuangwtt.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/"/>
     
-      <category term="Redis" scheme="https://chenshuangwtt.github.io/tags/Redis/"/>
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/tags/Redis/"/>
     
-      <category term="ZooKeeper" scheme="https://chenshuangwtt.github.io/tags/ZooKeeper/"/>
+      <category term="ZooKeeper" scheme="http://chenshuangwtt.github.io/tags/ZooKeeper/"/>
     
   </entry>
   
   <entry>
     <title>Synchronized关键字</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/04/lock-01/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/04/lock-01/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/04/lock-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/04/lock-01/</id>
     <published>2020-06-04T04:41:00.000Z</published>
     <updated>2020-06-08T01:33:06.012Z</updated>
     
@@ -175,19 +175,19 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="Synchronized" scheme="https://chenshuangwtt.github.io/tags/Synchronized/"/>
+      <category term="Synchronized" scheme="http://chenshuangwtt.github.io/tags/Synchronized/"/>
     
   </entry>
   
   <entry>
     <title>JVM_04 堆内存调优简介</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/03/jvm-04/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/03/jvm-04/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/03/jvm-04/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/03/jvm-04/</id>
     <published>2020-06-03T03:18:40.000Z</published>
     <updated>2020-06-04T04:09:19.896Z</updated>
     
@@ -203,19 +203,19 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="JVM" scheme="https://chenshuangwtt.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://chenshuangwtt.github.io/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>JVM_03 运行时数据区</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/02/jvm-03/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/02/jvm-03/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/02/jvm-03/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/02/jvm-03/</id>
     <published>2020-06-02T01:16:54.000Z</published>
     <updated>2020-06-04T01:47:35.243Z</updated>
     
@@ -231,19 +231,19 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="JVM" scheme="https://chenshuangwtt.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://chenshuangwtt.github.io/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>JVM_02 类加载子系统</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/jvm-02/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/jvm-02/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/jvm-02/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/jvm-02/</id>
     <published>2020-06-01T14:31:49.000Z</published>
     <updated>2020-06-02T04:01:45.819Z</updated>
     
@@ -259,19 +259,19 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="JVM" scheme="https://chenshuangwtt.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://chenshuangwtt.github.io/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>JVM_01 简介</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/jvm-01/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/jvm-01/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/jvm-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/jvm-01/</id>
     <published>2020-06-01T14:26:41.000Z</published>
     <updated>2020-06-11T09:47:34.379Z</updated>
     
@@ -287,19 +287,19 @@
     
     </summary>
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/categories/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/categories/Java/"/>
     
     
-      <category term="Java" scheme="https://chenshuangwtt.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://chenshuangwtt.github.io/tags/Java/"/>
     
-      <category term="JVM" scheme="https://chenshuangwtt.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://chenshuangwtt.github.io/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>Spring MVC 整合</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/spring-mvc/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/spring-mvc/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/spring-mvc/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/spring-mvc/</id>
     <published>2020-06-01T13:46:46.000Z</published>
     <updated>2020-06-11T09:53:28.404Z</updated>
     
@@ -315,19 +315,19 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/categories/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/categories/Spring/"/>
     
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/tags/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/tags/Spring/"/>
     
-      <category term="Spring MVC" scheme="https://chenshuangwtt.github.io/tags/Spring-MVC/"/>
+      <category term="Spring MVC" scheme="http://chenshuangwtt.github.io/tags/Spring-MVC/"/>
     
   </entry>
   
   <entry>
     <title>Spring持久层整合</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/spring-data/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/spring-data/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/spring-data/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/spring-data/</id>
     <published>2020-06-01T13:42:50.000Z</published>
     <updated>2020-06-01T14:09:32.063Z</updated>
     
@@ -343,17 +343,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/categories/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/categories/Spring/"/>
     
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/tags/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>Spring AOP</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/spring-aop/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/spring-aop/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/spring-aop/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/spring-aop/</id>
     <published>2020-06-01T13:35:02.000Z</published>
     <updated>2020-06-11T10:01:11.202Z</updated>
     
@@ -369,17 +369,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/categories/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/categories/Spring/"/>
     
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/tags/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>Spring入门</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/spring-01/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/spring-01/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/spring-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/spring-01/</id>
     <published>2020-06-01T13:03:55.000Z</published>
     <updated>2020-06-01T14:08:20.877Z</updated>
     
@@ -395,17 +395,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/categories/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/categories/Spring/"/>
     
     
-      <category term="Spring" scheme="https://chenshuangwtt.github.io/tags/Spring/"/>
+      <category term="Spring" scheme="http://chenshuangwtt.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码解析（七）：一级缓存和二级缓存源码</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/mybatis-07/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/mybatis-07/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/mybatis-07/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/mybatis-07/</id>
     <published>2020-06-01T08:03:55.000Z</published>
     <updated>2020-06-01T14:10:19.354Z</updated>
     
@@ -423,17 +423,17 @@
     
     </summary>
     
-      <category term="Mybatis 源码" scheme="https://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
+      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="Mybatis" scheme="https://chenshuangwtt.github.io/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码解析（六）：结果集自动映射成实体类对象</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/mybatis-06/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/mybatis-06/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/mybatis-06/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/mybatis-06/</id>
     <published>2020-06-01T04:10:50.000Z</published>
     <updated>2020-06-01T07:32:31.114Z</updated>
     
@@ -449,17 +449,17 @@
     
     </summary>
     
-      <category term="Mybatis 源码" scheme="https://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
+      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="Mybatis" scheme="https://chenshuangwtt.github.io/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码解析（五）：Select语句的执行过程分析</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/mybatis-05/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/mybatis-05/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/mybatis-05/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/mybatis-05/</id>
     <published>2020-06-01T00:46:40.000Z</published>
     <updated>2020-06-01T08:03:21.358Z</updated>
     
@@ -475,17 +475,17 @@
     
     </summary>
     
-      <category term="Mybatis 源码" scheme="https://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
+      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="Mybatis" scheme="https://chenshuangwtt.github.io/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码解析（四）：Mapper接口底层原理</title>
-    <link href="https://chenshuangwtt.github.io/2020/06/01/mybatis-04/"/>
-    <id>https://chenshuangwtt.github.io/2020/06/01/mybatis-04/</id>
+    <link href="http://chenshuangwtt.github.io/2020/06/01/mybatis-04/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/01/mybatis-04/</id>
     <published>2020-05-31T22:50:36.000Z</published>
     <updated>2020-06-01T00:43:15.902Z</updated>
     
@@ -502,17 +502,17 @@
     
     </summary>
     
-      <category term="Mybatis 源码" scheme="https://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
+      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="Mybatis" scheme="https://chenshuangwtt.github.io/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码解析（三）：SqlSession的创建过程</title>
-    <link href="https://chenshuangwtt.github.io/2020/05/31/mybatis-03/"/>
-    <id>https://chenshuangwtt.github.io/2020/05/31/mybatis-03/</id>
+    <link href="http://chenshuangwtt.github.io/2020/05/31/mybatis-03/"/>
+    <id>http://chenshuangwtt.github.io/2020/05/31/mybatis-03/</id>
     <published>2020-05-31T06:28:19.000Z</published>
     <updated>2020-05-31T13:56:48.232Z</updated>
     
@@ -528,17 +528,17 @@
     
     </summary>
     
-      <category term="Mybatis 源码" scheme="https://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
+      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="Mybatis" scheme="https://chenshuangwtt.github.io/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
     
   </entry>
   
   <entry>
     <title>MyBatis 源码解析（二）：Mapper映射的解析过程</title>
-    <link href="https://chenshuangwtt.github.io/2020/05/31/mybatis-02/"/>
-    <id>https://chenshuangwtt.github.io/2020/05/31/mybatis-02/</id>
+    <link href="http://chenshuangwtt.github.io/2020/05/31/mybatis-02/"/>
+    <id>http://chenshuangwtt.github.io/2020/05/31/mybatis-02/</id>
     <published>2020-05-31T01:46:58.000Z</published>
     <updated>2020-05-31T13:29:06.895Z</updated>
     
@@ -554,10 +554,10 @@
     
     </summary>
     
-      <category term="Mybatis 源码" scheme="https://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
+      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="Mybatis" scheme="https://chenshuangwtt.github.io/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
     
   </entry>
   
