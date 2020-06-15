@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chenshuangwtt.github.io/"/>
-  <updated>2020-06-11T03:10:43.819Z</updated>
+  <updated>2020-06-13T04:58:18.370Z</updated>
   <id>http://chenshuangwtt.github.io/</id>
   
   <author>
@@ -15,6 +15,95 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dubbo 实现微服务架构01</title>
+    <link href="http://chenshuangwtt.github.io/2020/06/13/microservices-dubbo-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/13/microservices-dubbo-01/</id>
+    <published>2020-06-13T02:06:30.000Z</published>
+    <updated>2020-06-13T04:58:18.370Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;Spring Boot + Spring Cloud 组件多，功能完备，Http通信&lt;br&gt;Spring Boot + Dubbo +
+        
+      
+    
+    </summary>
+    
+      <category term="微服务" scheme="http://chenshuangwtt.github.io/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+      <category term="Dubbo" scheme="http://chenshuangwtt.github.io/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/Dubbo/"/>
+    
+    
+      <category term="微服务" scheme="http://chenshuangwtt.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+      <category term="Dubbo" scheme="http://chenshuangwtt.github.io/tags/Dubbo/"/>
+    
+      <category term="Spring Boot" scheme="http://chenshuangwtt.github.io/tags/Spring-Boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redisson实现分布式锁</title>
+    <link href="http://chenshuangwtt.github.io/2020/06/12/redisson-01/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/12/redisson-01/</id>
+    <published>2020-06-12T09:22:53.000Z</published>
+    <updated>2020-06-15T06:06:29.325Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、高效分布式锁&quot;&gt;&lt;a href=&quot;#一、高效分布式锁&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/categories/Redis/"/>
+    
+      <category term="Redisson" scheme="http://chenshuangwtt.github.io/categories/Redis/Redisson/"/>
+    
+    
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/tags/Redis/"/>
+    
+      <category term="Redisson" scheme="http://chenshuangwtt.github.io/tags/Redisson/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis学习笔记（二）</title>
+    <link href="http://chenshuangwtt.github.io/2020/06/12/redis-03/"/>
+    <id>http://chenshuangwtt.github.io/2020/06/12/redis-03/</id>
+    <published>2020-06-12T04:29:52.000Z</published>
+    <updated>2020-06-12T07:52:32.405Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;集群&quot;&gt;&lt;a href=&quot;#集群&quot; class=&quot;headerlink&quot; title=&quot;集群&quot;&gt;&lt;/a&gt;集群&lt;/h2&gt;&lt;p&gt;实际生产中，我们会采用Redis集群，来避免单点故障&lt;/p&gt;
+&lt;h3 id=&quot;主从复制&quot;&gt;&lt;a href=&quot;#主从复制&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/categories/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://chenshuangwtt.github.io/tags/Redis/"/>
+    
+  </entry>
   
   <entry>
     <title>Spring注解</title>
@@ -49,7 +138,7 @@
     <link href="http://chenshuangwtt.github.io/2020/06/08/redis-02/"/>
     <id>http://chenshuangwtt.github.io/2020/06/08/redis-02/</id>
     <published>2020-06-08T10:49:47.000Z</published>
-    <updated>2020-06-11T10:02:53.477Z</updated>
+    <updated>2020-06-12T10:39:40.999Z</updated>
     
     <summary type="html">
     
@@ -57,7 +146,8 @@
       
         
         
-          &lt;h2 id=&quot;解析配置文件（redis-conf）&quot;&gt;&lt;a href=&quot;#解析配置文件（redis-conf）&quot; class=&quot;headerlink&quot; title=&quot;解析配置文件（redis.conf）&quot;&gt;&lt;/a&gt;解析配置文件（redis.conf）&lt;/h2&gt;&lt;h3
+          &lt;h2 id=&quot;Redis最新版下载地址&quot;&gt;&lt;a href=&quot;#Redis最新版下载地址&quot; class=&quot;headerlink&quot; title=&quot;Redis最新版下载地址&quot;&gt;&lt;/a&gt;Redis最新版下载地址&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[GitHub] &lt;a
         
       
     
@@ -71,11 +161,11 @@
   </entry>
   
   <entry>
-    <title>Redis学习笔记</title>
+    <title>Redis学习笔记（一）</title>
     <link href="http://chenshuangwtt.github.io/2020/06/08/redis-01/"/>
     <id>http://chenshuangwtt.github.io/2020/06/08/redis-01/</id>
     <published>2020-06-08T07:51:31.000Z</published>
-    <updated>2020-06-11T10:04:40.089Z</updated>
+    <updated>2020-06-12T05:32:03.649Z</updated>
     
     <summary type="html">
     
@@ -470,85 +560,6 @@
         
         
           &lt;h2 id=&quot;selectOne-方法分析&quot;&gt;&lt;a href=&quot;#selectOne-方法分析&quot; class=&quot;headerlink&quot; title=&quot;selectOne 方法分析&quot;&gt;&lt;/a&gt;selectOne 方法分析&lt;/h2&gt;&lt;p&gt; selectOne 在内部会调用
-        
-      
-    
-    </summary>
-    
-      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
-    
-    
-      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyBatis 源码解析（四）：Mapper接口底层原理</title>
-    <link href="http://chenshuangwtt.github.io/2020/06/01/mybatis-04/"/>
-    <id>http://chenshuangwtt.github.io/2020/06/01/mybatis-04/</id>
-    <published>2020-05-31T22:50:36.000Z</published>
-    <updated>2020-06-01T00:43:15.902Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在Mybaits中没有编写Mapper的实现类，却能调用Mapper的方法，现在就来看一下源码的实现：&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;UserMapper
-        
-      
-    
-    </summary>
-    
-      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
-    
-    
-      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyBatis 源码解析（三）：SqlSession的创建过程</title>
-    <link href="http://chenshuangwtt.github.io/2020/05/31/mybatis-03/"/>
-    <id>http://chenshuangwtt.github.io/2020/05/31/mybatis-03/</id>
-    <published>2020-05-31T06:28:19.000Z</published>
-    <updated>2020-05-31T13:56:48.232Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;SqlSession是mybatis的核心接口之一，是mybatis接口层的主要组成部分，对外提供了mybatis常用的api。mybatis提供了两个SqlSesion接口的实现，常用的实现类是DefaultSqlSession。它相当于一个数据库连接对象，在一个SqlS
-        
-      
-    
-    </summary>
-    
-      <category term="Mybatis 源码" scheme="http://chenshuangwtt.github.io/categories/Mybatis-%E6%BA%90%E7%A0%81/"/>
-    
-    
-      <category term="Mybatis" scheme="http://chenshuangwtt.github.io/tags/Mybatis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyBatis 源码解析（二）：Mapper映射的解析过程</title>
-    <link href="http://chenshuangwtt.github.io/2020/05/31/mybatis-02/"/>
-    <id>http://chenshuangwtt.github.io/2020/05/31/mybatis-02/</id>
-    <published>2020-05-31T01:46:58.000Z</published>
-    <updated>2020-05-31T13:29:06.895Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;mappers配置方式&quot;&gt;&lt;a href=&quot;#mappers配置方式&quot; class=&quot;headerlink&quot; title=&quot;mappers配置方式&quot;&gt;&lt;/a&gt;mappers配置方式&lt;/h2&gt;&lt;p&gt;mappers 标签下有许多 mapper 标签，每一个
         
       
     

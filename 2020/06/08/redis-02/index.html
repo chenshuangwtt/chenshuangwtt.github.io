@@ -5,9 +5,11 @@
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
     <meta name="keywords" content="Redis配置文件详解, java spring cloud js es6">
-    <meta name="description" content="解析配置文件（redis.conf）INCLUDES可以通过includes包含，redis.conf可以作为总闸，包含其他；
-# include /path/to/local.conf
-# include /path/to/other.c">
+    <meta name="description" content="Redis最新版下载地址
+[GitHub] https://github.com/antirez/redis
+[官网] https://redis.io/download
+
+安装redis[root@node105 src]# tar zx">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -476,14 +478,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    6.4k
+                    6.6k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    24 分
+                    25 分
                 </div>
                 
 				
@@ -494,7 +496,35 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="解析配置文件（redis-conf）"><a href="#解析配置文件（redis-conf）" class="headerlink" title="解析配置文件（redis.conf）"></a>解析配置文件（redis.conf）</h2><h3 id="INCLUDES"><a href="#INCLUDES" class="headerlink" title="INCLUDES"></a>INCLUDES</h3><p>可以通过includes包含，redis.conf可以作为总闸，包含其他；</p>
+                <h2 id="Redis最新版下载地址"><a href="#Redis最新版下载地址" class="headerlink" title="Redis最新版下载地址"></a>Redis最新版下载地址</h2><ul>
+<li>[GitHub] <a href="https://github.com/antirez/redis" target="_blank" rel="noopener">https://github.com/antirez/redis</a></li>
+<li>[官网] <a href="https://redis.io/download" target="_blank" rel="noopener">https://redis.io/download</a></li>
+</ul>
+<h3 id="安装redis"><a href="#安装redis" class="headerlink" title="安装redis"></a>安装redis</h3><pre class="line-numbers language-shell"><code class="language-shell">[root@node105 src]# tar zxvf redis-6.0.4.tar.gz 
+[root@node105 src]# cd redis-6.0.4/
+[root@node105 src]# make && make install<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+<h4 id="报错1：-bin-sh-cc-command-not-found"><a href="#报错1：-bin-sh-cc-command-not-found" class="headerlink" title="报错1：/bin/sh: cc: command not found"></a>报错1：/bin/sh: cc: command not found</h4><pre class="line-numbers language-shell"><code class="language-shell">解决方法:
+yum -y install gcc<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+<h4 id="报错2：server-c-xxxx-xx-error-‘xxxxxxxx’-has-no-member-named-‘xxxxx’"><a href="#报错2：server-c-xxxx-xx-error-‘xxxxxxxx’-has-no-member-named-‘xxxxx’" class="headerlink" title="报错2：server.c:xxxx:xx: error: ‘xxxxxxxx’ has no member named ‘xxxxx’"></a>报错2：server.c:xxxx:xx: error: ‘xxxxxxxx’ has no member named ‘xxxxx’</h4><pre class="line-numbers language-shell"><code class="language-shell"># 查看gcc版本是否在5.3以上，centos7.6默认安装4.8.5
+gcc -v
+# 升级gcc到5.3及以上,如下：
+升级到gcc 9.3：
+yum -y install centos-release-scl
+yum -y install devtoolset-9-gcc devtoolset-9-gcc-c++ devtoolset-9-binutils
+scl enable devtoolset-9 bash
+需要注意的是scl命令启用只是临时的，退出shell或重启就会恢复原系统gcc版本。
+如果要长期使用gcc 9.3的话：
+
+echo "source /opt/rh/devtoolset-9/enable" >>/etc/profile
+这样退出shell重新打开就是新版的gcc了
+以下其他版本同理，修改devtoolset版本号即可。<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h4 id="其他命令"><a href="#其他命令" class="headerlink" title="其他命令"></a>其他命令</h4><pre class="line-numbers language-shell"><code class="language-shell"># 编译出错时，清出编译生成的文件
+make distclean
+# 编译安装到指定目录下
+make PREFIX=/usr/local/redis install 
+# 卸载
+make uninstall<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h2 id="解析配置文件（redis-conf）"><a href="#解析配置文件（redis-conf）" class="headerlink" title="解析配置文件（redis.conf）"></a>解析配置文件（redis.conf）</h2><h3 id="INCLUDES"><a href="#INCLUDES" class="headerlink" title="INCLUDES"></a>INCLUDES</h3><p>可以通过includes包含，redis.conf可以作为总闸，包含其他；</p>
 <pre><code># include /path/to/local.conf
 # include /path/to/other.conf</code></pre><h3 id="MODULES"><a href="#MODULES" class="headerlink" title="MODULES"></a>MODULES</h3><pre><code># Load modules at startup. If the server is not able to load modules
 # it will abort. It is possible to use multiple loadmodule directives.
@@ -1365,9 +1395,9 @@ public class XXX{}
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="Redis学习笔记">
+                        <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="Redis学习笔记（一）">
                         
-                        <span class="card-title">Redis学习笔记</span>
+                        <span class="card-title">Redis学习笔记（一）</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -1588,7 +1618,7 @@ public class XXX{}
             
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">104.7k</span>&nbsp;字
+                class="white-color">115.7k</span>&nbsp;字
             
             
             
